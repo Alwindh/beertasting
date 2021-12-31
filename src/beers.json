@@ -1,0 +1,60 @@
+[
+	{
+		"id": "5",
+		"name": "Clwb Tropica",
+		"style": "Tropical IPA",
+		"brewery": "Tiny Rebel Brewing Co",
+		"abv": "5.5%",
+		"ibu": "40",
+        "mask" : "A"
+	},
+    	{
+		"id":"1",
+		"name": "IPA",
+		"style": "Original IPA",
+		"brewery": "Brouwerij 't IJ",
+		"abv": "6.5%",
+		"ibu": "50",
+        "mask" : "B"
+	},	{
+		"id": "7",
+		"name": "Blurred Lines",
+		"style": "Juicy IPA",
+		"brewery": "Jopen",
+		"abv": "5.3%",
+		"ibu": "20",
+        "mask" : "C"
+	},	{
+		"id": "4",
+		"name": "País Tropical",
+		"style": "Session IPA",
+		"brewery": "Oedipus Brewing",
+		"abv": "4.5%",
+		"ibu": "30",
+        "mask" : "D"
+	},	{
+		"id": "2",
+		"name": "Loki",
+		"style": "Golden IPA",
+		"brewery": "Walhalla Brewery",
+		"abv": "5.5%",
+		"ibu": "34",
+        "mask" : "E"
+	},	{
+		"id": "6",
+		"name": "Lucky Jack",
+		"style": "Extra Hard IPA",
+		"brewery": "LERVIG",
+		"abv": "6.0%",
+		"ibu": "55",
+        "mask" : "F"
+	},	{
+		"id": "3",
+		"name": "Kiss My Neighbour's Wife",
+		"style": "Sour IPA",
+		"brewery": "Brouwerij The Musketeers",
+		"abv": "6.2%",
+		"ibu": "20",
+        "mask" : "G"
+	}
+]

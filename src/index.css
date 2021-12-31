@@ -11,3 +11,54 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.subText{
+    margin-top: 0px!important;
+    font-size: 1em;
+}
+
+.descText{
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.MuiAccordion-region{
+    box-shadow:         inset 0 8px 6px -6px #7c7c7c;
+}
+
+.MuiPaper-root{
+    background-color: #f0f0f0!important;
+}
+
+.MuiAccordionSummary-root{
+    background-color: white!important;
+}
+.MuiCollapse-vertical{
+        background-color: white!important;
+
+}
+
+.MuiToggleButton-root{
+      flex-grow: 4; /* default 0 */
+
+}
+
+.errorMessage{
+    color:red
+}
+
+.centert {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.guess{
+    margin-left: 8px;
+    color: #7c7c7c!important;
+    font-weight: normal!important;
+}
+.wrong{
+    color: #ff0000!important;
+}
